@@ -1,0 +1,17 @@
+debug/accdetails.o
+debug/datValidationFunctions.o
+debug/loanapplication.o
+debug/main.o
+debug/moneytransaction.o
+debug/newclient.o
+debug/qBank.o
+debug/qbankclient.o
+debug/receipt.o
+debug/useracc.o
+debug/moc_accdetails.o
+debug/moc_loanapplication.o
+debug/moc_moneytransaction.o
+debug/moc_newclient.o
+debug/moc_qbankclient.o
+debug/moc_receipt.o
+debug/moc_useracc.o

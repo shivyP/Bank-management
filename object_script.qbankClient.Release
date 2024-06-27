@@ -1,0 +1,17 @@
+release/accdetails.o
+release/datValidationFunctions.o
+release/loanapplication.o
+release/main.o
+release/moneytransaction.o
+release/newclient.o
+release/qBank.o
+release/qbankclient.o
+release/receipt.o
+release/useracc.o
+release/moc_accdetails.o
+release/moc_loanapplication.o
+release/moc_moneytransaction.o
+release/moc_newclient.o
+release/moc_qbankclient.o
+release/moc_receipt.o
+release/moc_useracc.o
